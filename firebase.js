@@ -6,11 +6,11 @@ import 'firebase/firestore';
 // Replace this config with your Firebase project's details
 const firebaseConfig = {
   apiKey: 'AIzaSyBuXYzlgPt2LqrSD3V2Bo1EnzZcej-6ORg',
-  authDomain: 'YOUR_PROJECT_ID.firebaseapp.com',
+  authDomain: 'firstproject-df175.firebaseapp.com',
   projectId: 'firstproject-df175',
-  storageBucket: 'YOUR_PROJECT_ID.appspot.com',
-  messagingSenderId: 'YOUR_SENDER_ID',
-  appId: 'AIzaSyBuXYzlgPt2LqrSD3V2Bo1EnzZcej-6ORg',
+  storageBucket: 'firstproject-df175.firebasestorage.app',
+  messagingSenderId: '549623680611',
+  appId: '1:549623680611:web:d07c8adc28b0efb834b256',
 };
 
 // Initialize Firebase
